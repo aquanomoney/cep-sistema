@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ba90060-67d6-4dcf-bc19-60e73f380f2b" name="Default Changelist" comment="" />
+    <list default="true" id="4ba90060-67d6-4dcf-bc19-60e73f380f2b" name="Default Changelist" comment="primeiro update">
+      <change afterPath="$PROJECT_DIR$/cep.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +25,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Perforce" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -34,17 +37,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606318621223</updated>
-      <workItem from="1606318622254" duration="360000" />
+      <workItem from="1606318622254" duration="653000" />
     </task>
+    <task id="LOCAL-00001" summary="primeiro update">
+      <created>1606319171535</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606319171535</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="primeiro update" />
+    <option name="LAST_COMMIT_MESSAGE" value="primeiro update" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="711" y="344" key="#Notifications" timestamp="1606319196703">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="711" y="344" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1606319196703" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1606319241521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606319241521" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1606318802337">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606318802337" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606319181695">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606319181695" />
   </component>
 </project>
